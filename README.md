@@ -2,7 +2,7 @@
 
 Passionate Full-stack Developer | [LinkedIn](https://www.linkedin.com/in/minhtuan92vt) | [Portfolio Website](https://minhtuan92.github.io/porfolio)
 
-![Header Image](URL to Your Header Image)
+![Me](assets/me.png)
 
 ## About Me
 
