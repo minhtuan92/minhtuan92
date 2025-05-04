@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tuan Tran
 
-Passionate Full-stack Developer | [LinkedIn](https://www.linkedin.com/in/minhtuan92vt) | [Portfolio Website](https://minhtuan92.github.io/porfolio)
+Passionate Full-stack Developer | [LinkedIn](https://www.linkedin.com/in/minhtuan92vt) | [Portfolio Website](https://minhtuan92.github.io/portfolio)
 
 ![Me](assets/me.png)
 
