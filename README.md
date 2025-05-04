@@ -14,10 +14,11 @@ I'm a dedicated Angular developer with a love for creating robust and scalable w
 
 ## Skills
 
-- **Languages:** TypeScript, JavaScript
-- **Frontend:** Angular, HTML, CSS, SCSS
+- **Languages:** TypeScript, JavaScript, C#, Java, Python
+- **Frontend:** Angular, HTML, CSS/SCSS, tailwindcss
+- **Backend:** expressjs, .Net, Springboot
 - **Tooling:** npm, Yarn, Webpack
-- **Version Control:** Git, GitHub
-- **Testing:** Jasmine, Karma, Protractor
+- **Version Control:** Git, GitHub, Gitlab
+- **Testing:** Jest, Jasmine, Karma, Protractor, JUnit
 
 Happy coding! 🚀
